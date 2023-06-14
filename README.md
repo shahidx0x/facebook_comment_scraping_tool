@@ -1,4 +1,4 @@
-# Facebook Comment Extractor
+# Facebook Comment Scraping Tool
 
 This is a Python script that uses Selenium WebDriver to extract comments from a specific Facebook post.
 
